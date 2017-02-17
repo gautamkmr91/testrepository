@@ -1,7 +1,7 @@
 /*******************************************************************************************************
     * @author  : SARAVANAN C
     * @date    :  05 Jan 2017
-    * @modified : 05 Jan 2017
+    * @modified : 
     * @group    :  
     * @group-content : 
     * @description : THIS IS CLASS CAN BE INVOKED FROM ANY OBJECT DELETE TRIGGER, THIS CLASS LOGIC WILL DOES THE FOLLOWS:
